@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">mimo challenge android</string>
+    <string name="no_active_lessons_msg_txt">All lessons have been solved ! You can choose to restart the game or exit the app</string>
+    <string name="restart">restart</string>
+    <string name="exit">exit</string>
+    <string name="error_loading_data">An error ocurred while attempting to load lessons. Please check your device has internet access and reload the app</string>
+    <string name="lesson_solved">Lesson Solved !</string>
+    <string name="run_lesson">run</string>
+
+    <string name="error_bad_request_desc">An unexpected error occurred. Try again or exit and retry later. If the problem persists please reach out to our help center </string>
+    <string name="error_network_desc">You don\'t seem to be connected to the internet. Please check your connection and try again or exit and retry later</string>
+    <string name="error_gateway_desc">An error occurred and we\'re working to fix the problem. Please exit and contact the help center or retry later</string>
+    <string name="error_internal_server_desc">We\'re working on it and we\'ll get it fixed as soon as possible. Please exit and contact the help center or retry later </string>
+    <string name="error_unknown_desc">An unexpected error occurred. Try again or exit and retry later </string>
+    <string name="error_forbidden_desc">We are sorry but, you are not permitted to see this. Please exit and contact the help center or retry later</string>
+    <string name="go_to_settings">Go to settings</string>
+    <string name="ok">OK</string>
+</resources>
